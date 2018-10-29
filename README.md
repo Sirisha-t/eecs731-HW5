@@ -28,7 +28,7 @@ Code for the project
 The notebook for this project can be found in the 1.0-eecs731-HW5.ipynb Jupyter notebook. 
 
 
-Regression models
+Product Demand Forecast
 ===================
 Used fbprophet to predict time series forecasts for the demand of a particular product from the dataset.  
 
