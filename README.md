@@ -1,4 +1,4 @@
-# eecs731-HW5
+# World Wide Products Inc.
 
 Time series forecasting
 =======================
